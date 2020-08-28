@@ -1,0 +1,12 @@
+{
+  "name": "a-bit-of-learning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "license": "MIT",
+  "description": "A sandbox for my own personal exploration of number systems.",
+  "repository": "git@github.com:chasingmaxwell/a-bit-of-learning.git",
+  "author": "Peter Sieg <chasingmaxwell@gmail.com>"
+}
